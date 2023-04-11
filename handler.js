@@ -829,7 +829,7 @@ global.dfail = (type, m, conn) => {
         unreg: '⚠️ *_Regístrese para usar esta función  Escribiendo:_*\n\n• */reg nombre.edad*\n\n*_📌Ejemplo_* : */reg Alberto.16*',
         restrict: '*_¡Esta característica está -deshabilitada-_*'
     }[type]
-    let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: '🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰', body: '', thumbnail: miniurl, sourceUrl: script }}}}, { quoted: m })
+    let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: '🍀❥៚⍣𝘾𝙍𝙄𝙒𝙄𝙇𝙊𝙋_𝘽𝙊𝙏࿐⛦🍀', body: '', thumbnail: miniurl, sourceUrl: script }}}}, { quoted: m })
     if (msg) return conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id })
 }
 
