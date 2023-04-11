@@ -23,7 +23,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/CRIWILOP/CRIWILOP_BOT
+> git https://github.com/WorkCwp/CRIWILOP_BOT
 > cd CRIWILOP_BOT
 > npm i
 > npm update
