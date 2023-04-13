@@ -84,12 +84,12 @@ global.me = '🍀❥⍣ᴄʀɪᴡɪʟᴏᴘ࿐⛦☘️'
 
 
 //᭥🥗᭢━━━━━━◜𝑻𝑬𝑿𝑻𝑶𝑺◞━━━━━━᭥🥗᭢
-global.adimagen = `🌅| Iᴍᴀ́ɢᴇɴᴇs Bʏ NʏᴀɴCᴀᴛBᴏᴛ🌿` 
-global.adanime = `🌸| Aɴɪᴍᴇ Bʏ NʏᴀɴCᴀᴛBᴏᴛ🈴` 
+global.adimagen = `🌅| Iᴍᴀ́ɢᴇɴᴇs Bʏ 🍀ᴄʀɪᴡɪʟᴏᴘ☘️` 
+global.adanime = `🌸| Aɴɪᴍᴇ Bʏ 🍀ᴄʀɪᴡɪʟᴏᴘ☘️` 
 global.adyoutube = `🍁| Dᴇsᴄᴀʀɢᴀs ᴅᴇ YᴏᴜTᴜʙᴇ🍄` 
-global.adsticker = `🏞️| Sᴛɪᴄᴋᴇʀs Bʏ NʏᴀɴCᴀᴛBᴏᴛ🌺` 
-global.addescargas = `📤| Dᴇsᴄᴀʀɢᴀs Bʏ NʏᴀɴCᴀᴛ🌸`
-global.adnsfw = `🔞| Nsғᴡ Bʏ NʏᴀɴCᴀᴛBᴏᴛ⭐`
+global.adsticker = `🏞️| Sᴛɪᴄᴋᴇʀs Bʏ 🍀ᴄʀɪᴡɪʟᴏᴘ☘️` 
+global.addescargas = `📤| Dᴇsᴄᴀʀɢᴀs Bʏ 🍀ᴄʀɪᴡɪʟᴏᴘ☘️`
+global.adnsfw = `🔞| Nsғᴡ Bʏ 🍀ᴄʀɪᴡɪʟᴏᴘ☘️`
  //╰─────────────────────╯
 
  
