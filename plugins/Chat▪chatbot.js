@@ -34,9 +34,7 @@ await conn.sendPresenceUpdate('composing', m.chat)
        
 if (texto2B) {
 await conn.sendPresenceUpdate('composing', m.chat)
-        conn.reply(m.chat, `≡ ```LISTA DE MENUS```
-
-*┏━⊜「 Menús📒 」*
+        conn.reply(m.chat, `*┏━⊜「 Menús📒 」*
 *┃›* .listmenu
 *┃›* .menu
 *┃›* .help
