@@ -34,7 +34,8 @@ await conn.sendPresenceUpdate('composing', m.chat)
        
 if (texto2B) {
 await conn.sendPresenceUpdate('composing', m.chat)
-        conn.reply(m.chat, `*┏━⊜「 Menús📒 」*
+        conn.reply(m.chat, `@${who.split("@s.whatsapp.net")[0]}
+*┏━⊜「 Menús📒 」*
 *┃›* .listmenu
 *┃›* .menu
 *┃›* .help
