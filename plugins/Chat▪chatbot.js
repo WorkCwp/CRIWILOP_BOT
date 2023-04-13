@@ -21,7 +21,7 @@ if (chat.chatbot) {
 let texto1A = /hola/i
 let texto1B = texto1A.exec(m.text)
 
-let texto2A = /menu/i
+let texto2A = /🍀|☘️/i
 let texto2B = texto2A.exec(m.text)
 //━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -34,7 +34,7 @@ await conn.sendPresenceUpdate('composing', m.chat)
        
 if (texto2B) {
 await conn.sendPresenceUpdate('composing', m.chat)
-        conn.reply(m.chat, `🍀❥⍣ᴄʀɪᴡɪʟᴏᴘ࿐⛦☘️ @${who.split("@s.whatsapp.net")[0]}`, fkowner, { mentions: [who]})
+        conn.reply(m.chat, `☘️🍀`, fkowner, { mentions: [who]})
         }
 //━━━━━━━━━━━━━━━━━━━━━━━
 }
