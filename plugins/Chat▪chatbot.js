@@ -34,7 +34,7 @@ await conn.sendPresenceUpdate('composing', m.chat)
        
 if (texto2B) {
 await conn.sendPresenceUpdate('composing', m.chat)
-        conn.reply(m.chat, `no prro`
+        conn.reply(m.chat, `no prro`, fkowner, { mentions: [who]})
         }
 //━━━━━━━━━━━━━━━━━━━━━━━
 }
