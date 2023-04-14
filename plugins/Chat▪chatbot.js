@@ -439,44 +439,6 @@ await conn.sendPresenceUpdate('composing', m.chat)
 *┃›* .unlockcmd
 *┃›* .lockcmd
 *┃›* .setcmd <txt>
-*┗━⬣*
-
-*┏━⊜「 Nsfw🔞 」*
-*┃›* .nsfwloli
-*┃›* .nsfwfoot
-*┃›* .nsfwass
-*┃›* .nsfwbdsm
-*┃›* .nsfwcum
-*┃›* .nsfwero
-*┃›* .nsfwfemdom
-*┃›* .nsfwfoot
-*┃›* .nsfwglss
-*┃›* .nsfworgy
-*┃›* .yuri
-*┃›* .yuri2
-*┃›* .yaoi
-*┃›* .yaoi2
-*┃›* .panties
-*┃›* .tetas
-*┃›* .booty
-*┃›* .ecchi
-*┃›* .furro
-*┃›* .hentai
-*┃›* .trapito
-*┃›* .lesbians
-*┃›* .pene
-*┃›* .porno
-*┃›* .randomxxx
-*┃›* .pechos
-*┃›* .pack ◜🪙◞
-*┃›* .pussy ◜🪙◞
-*┃›* .videoxxx
-*┃›* .xnxxdl
-*┃›* .porhubsearch
-*┃›* .xvideossearch
-*┃›* .xnxxsearch
-*┃›* .xvideosdl
-*┗━⬣*
 
 *┏━⊜「 Creador📌 」*
 *┃›* .banchat
