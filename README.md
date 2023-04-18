@@ -1,4 +1,6 @@
 # `🍀❥៚⍣𝘾𝙒𝙋࿐⛦🍀`
+<a href="https://github.com/WorkCwp"><img src="https://github.com/WorkCwp/CRIWILOP_BOT/blob/main/storage/image/log.png" width="450" height="450" alt="WorkCwp"/></a>
+  
 
 ### `—◉ 🍀GRUPO OFICIAL🍀`
 
@@ -48,13 +50,13 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
  
 ## `AGRADECIMIENTOS & CREDITOS` 
 <div><button id="boton" type="button">games-wabot-md - By BochilGaming </button></div>
-<a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="450" height="450" alt="BochilGaming"/></a>
+<a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="350" height="350" alt="BochilGaming"/></a>
 <div><button id="boton" type="button">Baileys - By adiwajshing</button></div>
-<a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="450" height="450" alt="adiwajshing"/></a>
+<a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="350" height="350" alt="adiwajshing"/></a>
 <div><button id="boton" type="button">ALBERTO9886</button></div>
-<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="450" height="450" alt="WorkCwp"/></a>
+<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="350" height="350" alt="WorkCwp"/></a>
 
 ## `EDITOR & PROPIETARIO DEL BOT` 
-<a href="https://github.com/WorkCwp"><img src="https://github.com/WorkCwp.png" width="450" height="450" alt="WorkCwp"/></a>
+<a href="https://github.com/WorkCwp"><img src="https://github.com/WorkCwp.png" width="350" height="350" alt="WorkCwp"/></a>
   
 `🍀❥៚⍣𝘾𝙒𝙋࿐⛦🍀`
