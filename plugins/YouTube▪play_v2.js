@@ -21,5 +21,5 @@ handler.tags = ['downloader']
 
 handler.command = ['play.1', 'play.2']
 
-handler.register = true
+handler.register = false
 export default handler
