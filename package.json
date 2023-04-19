@@ -27,7 +27,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "npm:baileys@^6.0.8",",
+        "@adiwajshing/baileys": "npm:baileys@^6.0.8",
         "@bochilteam/scraper": "^3.0.0",
         "acrcloud": "^1.4.0",
         "api-dylux": "^1.2.8",
