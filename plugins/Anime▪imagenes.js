@@ -157,5 +157,5 @@ conn.sendButton(m.chat, `_${command}_`.trim(), `*◈•${name}*`, url, [['「�
 handler.command = handler.help = ['akira', 'akiyama', 'anna', 'asuna', 'ayuzawa', 'boruto', 'chiho', 'chitoge', 'deidara', 'wpanime', 'erza', 'elaina', 'eba', 'emilia', 'hestia', 'hinata', 'inori', 'isuzu', 'itachi', 'itori', 'kaga', 'kagura', 'kaori', 'keneki', 'kotori', 'kurumi', 'madara', 'mikasa', 'miku', 'minato', 'naruto', 'nezuko', 'sagiri', 'sasuke', 'sakura', 'cosplay', 'megumin']
 handler.tags = ['nime']
 handler.limit = true
-handler.register = true
+handler.register = false
 export default handler
