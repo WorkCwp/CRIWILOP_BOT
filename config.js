@@ -214,7 +214,7 @@ var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'u
   global.saludo = "Espero que tengas " + hour;
 //╰─────────────────────╯
 
-global.multiplier = 99999 
+global.multiplier = 99
 
 global.rpg = {
   emoticon(string) {
