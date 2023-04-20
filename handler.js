@@ -554,6 +554,10 @@ export async function handler(chatUpdate) {
                     fail('admin', m, this)
                     continue
                 }
+                if (plugin.register == true && _user.registered == false) { // Butuh daftar?
+                    fail('unreg', m, this)
+                    continue
+                }
                 if (plugin.private && m.isGroup) { // Private Chat Only
                     fail('private', m, this)
                     continue
