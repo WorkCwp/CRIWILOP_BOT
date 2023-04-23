@@ -9,8 +9,6 @@
 
 > NO SPAMEAR COMANDOS
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
 - PAGINA [Aqui](https://beta.openai.com/playground)
@@ -21,11 +19,11 @@
 
 ## `AGRADECIMIENTOS & CREDITOS` 
 <div><button id="boton" type="button">games-wabot-md - By BochilGaming </button></div>
-<a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="350" height="350" alt="BochilGaming"/></a>
+<a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="250" height="250" alt="BochilGaming"/></a>
 <div><button id="boton" type="button">Baileys - By adiwajshing</button></div>
-<a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="350" height="350" alt="adiwajshing"/></a>
+<a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="250" height="250" alt="adiwajshing"/></a>
 <div><button id="boton" type="button">ALBERTO9886</button></div>
-<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="350" height="350" alt="WorkCwp"/></a>
+<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="250" height="250" alt="WorkCwp"/></a>
 
 ## `EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/WorkCwp"><img src="https://github.com/WorkCwp.png" width="350" height="350" alt="WorkCwp"/></a>
