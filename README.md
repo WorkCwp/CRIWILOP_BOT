@@ -6,6 +6,7 @@
 
 <a href="https://chat.whatsapp.com/IivCsR2fXP13mhIMukfGwp" target="blank"><img src="https://img.shields.io/badge/Grupo oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
+
 > NO SPAMEAR COMANDOS
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
@@ -17,15 +18,7 @@
 ### `—◉ 💕 PLUGINS 💕`
 - TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
 
-### `—◉ 📝 NOTAS 📝`
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
- 
- 
+
 ## `AGRADECIMIENTOS & CREDITOS` 
 <div><button id="boton" type="button">games-wabot-md - By BochilGaming </button></div>
 <a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="350" height="350" alt="BochilGaming"/></a>
