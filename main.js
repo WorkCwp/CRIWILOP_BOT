@@ -71,7 +71,7 @@ const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
 logger: P({ level: 'silent'}),
-browser: ['NyanCatBot','Safari','1.0.0']
+browser: ['','⍣ᴄᴡᴘ⛦','1.0.0']
 }
 
 global.conn = makeWASocket(connectionOptions)
@@ -225,7 +225,7 @@ Object.freeze(global.support)
 }
 setInterval(async () => {
 var a = await clearTmp()
-console.log(chalk.cyanBright(`\n╭───────────「 𝐀𝐔𝐓𝐎-𝐂𝐋𝐄𝐀𝐑𝐓𝐌𝐏 」───────────◉ \n│\n│🍁◌*̥₊ 𝙰𝚛𝚌𝚑𝚒𝚟𝚘𝚜 𝚎𝚕𝚒𝚖𝚒𝚗𝚊𝚍𝚘𝚜. ✅\n│\n╰─────────────────────────────────────────◉\n`))
+console.log(chalk.cyanBright(`\n╭───────────「 🍀❥⍣𝘾𝙍𝙄𝙒𝙄𝙇𝙊𝙋_𝘽𝙊𝙏🍀 」───────────◉ \n│\n│🍀❥៚⍣𝘾𝙒𝙋࿐⛦🍀. ✅\n│\n╰─────────────────────────────────────────◉\n`))
 }, 180000)
 _quickTest()
 .then(() => conn.logger.info(`𝐂𝐚𝐫𝐠𝐚𝐧𝐝𝐨．．．\n`))
