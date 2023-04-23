@@ -1,5 +1,5 @@
 # `🍀❥៚⍣𝘾𝙒𝙋࿐⛦🍀`
-<a href="https://github.com/WorkCwp"><img src="https://github.com/WorkCwp/CRIWILOP_BOT/blob/main/storage/image/log.png" width="450" height="450" alt="WorkCwp"/></a>
+<a href="https://github.com/WorkCwp"><img src="https://github.com/WorkCwp/CRIWILOP_BOT/blob/main/storage/image/log.jpg" width="450" height="450" alt="WorkCwp"/></a>
   
 
 ### `—◉ 🍀GRUPO OFICIAL🍀`
