@@ -9,6 +9,27 @@
 
 > NO SPAMEAR COMANDOS
 
+# 📖 Características del bot 
+|  Funciones y comandos  |                                           Sip |
+| :---------------------------------------------: | :-----------: |
+| Crea stickers|✔️|
+| Bienvenida automática|✔️|
+| Anti-Link|✔️|
+| Anti-Fakes|✔️|
+| Anti-Estranjeros|✔️|
+| Anti-Llamadas|✔️|
+| Anti-Privados|✔️|
+| Modo Publico/Privado|✔️|
+| Herramientas de edición|✔️|
+| Creador de logos|✔️|
+| Anime|✔️|
+| Juegos|✔️|
+| Descarga de música/videos|✔️|
+| Chat-Bot|✔️|
+| Botones clásicos|✔️|
+| Random commands|✔️|
+| NSFW|🔞|
+| Más funciones en adelante|♻️|
 
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
 - PAGINA [Aqui](https://beta.openai.com/playground)
