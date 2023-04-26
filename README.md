@@ -16,11 +16,10 @@
 | Bienvenida automática|✔️|
 | Anti-Link|✔️|
 | Anti-Fakes|✔️|
-| Anti-Estranjeros|✔️|
+| Anti-Extranjeros|✔️|
 | Anti-Llamadas|✔️|
 | Anti-Privados|✔️|
 | Modo Publico/Privado|✔️|
-| Herramientas de edición|✔️|
 | Creador de logos|✔️|
 | Anime|✔️|
 | Juegos|✔️|
