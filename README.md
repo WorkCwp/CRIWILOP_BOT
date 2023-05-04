@@ -30,9 +30,9 @@
 | NSFW|🔞|
 | Más funciones en adelante|♻️|
 
-``
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-``
+
+# ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+
 
 ```bash
 termux-setup-storage
@@ -51,7 +51,29 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 ```
 ```bash
-
+pkg install imagemagick -y
+```
+```bash
+pkg install yarn
+```
+```bash
+git clone https://github.com/WorkCwp/CRIWILOP_BOT
+```
+```bash
+cd CRIWILOP_BOT
+```
+```bash
+npm i
+```
+```bash
+npm update 
+```
+```bash
+yarn install
+```
+```bash
+npm start
+```
 
 
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
@@ -64,8 +86,7 @@ pkg install ffmpeg -y
 ## `AGRADECIMIENTOS & CREDITOS` 
 <div><button id="boton" type="button">games-wabot-md - By BochilGaming </button></div>
 <a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="250" height="250" alt="BochilGaming"/></a>
-<div><button id="boton" type="button">Baileys - By adiwajshing</button></div>
-<a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="250" height="250" alt="adiwajshing"/></a>
+
 <div><button id="boton" type="button">ALBERTO9886</button></div>
 <a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="250" height="250" alt="WorkCwp"/></a>
 
