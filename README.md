@@ -30,6 +30,30 @@
 | NSFW|🔞|
 | Más funciones en adelante|♻️|
 
+``
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+``
+
+```bash
+termux-setup-storage
+```
+
+```bash
+pkg upgrade -y && pkg update -y
+```
+```bash
+pkg install git -y
+```
+```bash
+pkg install nodejs -y
+```
+```bash
+pkg install ffmpeg -y
+```
+```bash
+
+
+
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
 - PAGINA [Aqui](https://beta.openai.com/playground)
 
