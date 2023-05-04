@@ -7,6 +7,7 @@
 <a href="https://chat.whatsapp.com/IivCsR2fXP13mhIMukfGwp" target="blank"><img src="https://img.shields.io/badge/Grupo oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
+# https://www.mediafire.com/file/nbe32g0kjl99yul/Termux_0.119.1.apk/file
 > NO SPAMEAR COMANDOS
 
 # 📖 Características del bot 
